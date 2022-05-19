@@ -1,1 +1,1 @@
-# Figuras-Geometricas-C
+# Figuras Geométricas em Linguagem C.
